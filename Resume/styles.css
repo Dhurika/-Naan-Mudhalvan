@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #DFCCFB;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: #610C9F;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+.name {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.position {
+    font-size: 18px;
+}
+
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.section {
+    margin: 20px 0;
+}
+
+.section-title {
+    font-size: 20px;
+    font-weight: bold;
+    color: #DA0C81;
+}
+
+.section-content {
+    margin-top: 10px;
+    color: #940B92;
+}
+
+.contact-info {
+    margin-top: 20px;
+}
+
+.skills {
+    margin-top: 20px;
+}
